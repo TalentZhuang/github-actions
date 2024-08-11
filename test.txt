@@ -2,3 +2,5 @@ first commit
 update 1
 
 feature 1
+
+feature 2 added
